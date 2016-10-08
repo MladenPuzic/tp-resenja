@@ -1,1 +1,3 @@
-# Takmi-arsko-Programiranje
+# Takmicarsko-Programiranje
+
+Ovde čuvam rešenja zadataka sa takmičenja
