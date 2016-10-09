@@ -1,4 +1,7 @@
-#include <cstdio>
+/*
+Zadatak: P1 republičko 2007. OŠ
+Autor rešenja: Mladen 'theSitzr' Puzić
+*/#include <cstdio>
 #include <cstring>
 using namespace std;
 
