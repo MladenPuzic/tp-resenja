@@ -1,4 +1,4 @@
-//Problem: 1.1 - trening
+//Problem: 1.1 - Trening
 //Autor rešenja: Mladen Puzić
 //Put koji sportista pređe jednak je obimu pravougaonika koji se računa formulom O = 2*(d+s)
 #include <cstdio>
