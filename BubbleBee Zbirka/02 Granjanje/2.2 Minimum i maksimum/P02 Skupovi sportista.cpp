@@ -11,6 +11,6 @@ int main(){
 	scanf("%d%d%d", &n, &k, &f);
 	int rez1 = max(k+f-n, 0);
 	int rez2 = min(f, k);
-  printf("%d\n%d", rez1, rez2);
+  	printf("%d\n%d", rez1, rez2);
 	return 0;
 }
