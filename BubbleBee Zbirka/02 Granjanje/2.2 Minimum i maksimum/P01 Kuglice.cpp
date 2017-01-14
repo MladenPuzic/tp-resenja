@@ -8,6 +8,6 @@ using namespace std;
 int main(){
 	int c1, p1, c2, p2;
 	scanf("%d%d%d%d", &c1, &p1, &c2, &p2);
-  printf("%d", min(c1 + p2, c2 + p1));
+  	printf("%d", min(c1 + p2, c2 + p1));
 	return 0;
 }
