@@ -10,6 +10,6 @@ int main(){
 	scanf("%d%d", &a, &b);
 	a = max(0, a);
 	b = max(0, b);
-    printf("%d", b-a);
+    	printf("%d", b-a);
 	return 0;
 }
